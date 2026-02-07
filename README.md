@@ -8,8 +8,9 @@ Solução do puzzle de 8 peças utilizando Inteligência Artificial (Algoritmo G
 
 
 
+https://github.com/user-attachments/assets/a86109f9-3e33-4db7-8137-3e873a277a7b
 
-https://github.com/user-attachments/assets/85188578-a63f-4cb5-8bac-6d41af588cbd
+
 
 
 
